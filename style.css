@@ -57,7 +57,7 @@ a:hover {
   font-size: 2rem;
 }
 .logo:hover {
-  cursor: default;
+  cursor: pointer;
 }
 
 /* hamburger menu */
